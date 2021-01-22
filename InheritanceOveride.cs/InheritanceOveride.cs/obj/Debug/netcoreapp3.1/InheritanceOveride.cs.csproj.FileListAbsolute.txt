@@ -1,0 +1,13 @@
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\bin\Debug\netcoreapp3.1\InheritanceOveride.cs.exe
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\bin\Debug\netcoreapp3.1\InheritanceOveride.cs.deps.json
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\bin\Debug\netcoreapp3.1\InheritanceOveride.cs.runtimeconfig.json
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\bin\Debug\netcoreapp3.1\InheritanceOveride.cs.runtimeconfig.dev.json
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\bin\Debug\netcoreapp3.1\InheritanceOveride.cs.dll
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\bin\Debug\netcoreapp3.1\InheritanceOveride.cs.pdb
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\obj\Debug\netcoreapp3.1\InheritanceOveride.cs.csprojAssemblyReference.cache
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\obj\Debug\netcoreapp3.1\InheritanceOveride.cs.AssemblyInfoInputs.cache
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\obj\Debug\netcoreapp3.1\InheritanceOveride.cs.AssemblyInfo.cs
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\obj\Debug\netcoreapp3.1\InheritanceOveride.cs.csproj.CoreCompileInputs.cache
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\obj\Debug\netcoreapp3.1\InheritanceOveride.cs.dll
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\obj\Debug\netcoreapp3.1\InheritanceOveride.cs.pdb
+C:\Users\Wen\source\repos\InheritanceOveride.cs\InheritanceOveride.cs\obj\Debug\netcoreapp3.1\InheritanceOveride.cs.genruntimeconfig.cache

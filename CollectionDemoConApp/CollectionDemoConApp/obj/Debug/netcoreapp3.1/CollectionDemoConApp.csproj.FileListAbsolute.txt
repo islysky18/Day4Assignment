@@ -1,0 +1,13 @@
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\bin\Debug\netcoreapp3.1\CollectionDemoConApp.exe
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\bin\Debug\netcoreapp3.1\CollectionDemoConApp.deps.json
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\bin\Debug\netcoreapp3.1\CollectionDemoConApp.runtimeconfig.json
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\bin\Debug\netcoreapp3.1\CollectionDemoConApp.runtimeconfig.dev.json
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\bin\Debug\netcoreapp3.1\CollectionDemoConApp.dll
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\bin\Debug\netcoreapp3.1\CollectionDemoConApp.pdb
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\netcoreapp3.1\CollectionDemoConApp.AssemblyInfoInputs.cache
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\netcoreapp3.1\CollectionDemoConApp.AssemblyInfo.cs
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\netcoreapp3.1\CollectionDemoConApp.csproj.CoreCompileInputs.cache
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\netcoreapp3.1\CollectionDemoConApp.dll
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\netcoreapp3.1\CollectionDemoConApp.pdb
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\netcoreapp3.1\CollectionDemoConApp.genruntimeconfig.cache
+C:\Users\Wen\source\repos\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\netcoreapp3.1\CollectionDemoConApp.csprojAssemblyReference.cache
